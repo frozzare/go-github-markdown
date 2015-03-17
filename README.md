@@ -1,6 +1,6 @@
 # go-github-markdown [![Build Status](https://travis-ci.org/frozzare/go-github-markdown.svg?branch=master)](https://travis-ci.org/frozzare/go-github-markdown)
 
- Fetch rendered markdown using the GitHub Markdown API
+ Fetch or Write GitHub Markdown with Go
 
  View the [docs](http://godoc.org/github.com/frozzare/go-github-markdown).
 
