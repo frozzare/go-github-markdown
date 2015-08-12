@@ -6,7 +6,7 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/bmizerany/assert"
+	"github.com/frozzare/go-assert"
 )
 
 func TestFetch(t *testing.T) {
